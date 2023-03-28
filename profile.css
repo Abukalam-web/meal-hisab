@@ -245,6 +245,14 @@ table{
         height: 84px;
         font-size: 13px;
     }
+    .table-box {
+        width: 98%;
+        height: 604px;
+        background-color: white;
+        position: absolute;
+        left: 1%;
+        top: 607px;
+    }
 }
 
 
@@ -272,11 +280,11 @@ table{
 
     .table-box {
         width: 98%;
-        height: 300px;
+        height: 604px;
         background-color: white;
         position: absolute;
         left: 1%;
-        top: 579px;
+        top: 607px;
     }
     .cc {
         width: 48%;
