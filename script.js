@@ -1,6 +1,6 @@
 
 var kharoch =10581+115+20 ;
-var motMeal = 279 + 8.5  ;
+var motMeal = 279 + 8.5 +12  ;
 
 
 
