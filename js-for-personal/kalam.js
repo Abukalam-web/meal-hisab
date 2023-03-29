@@ -1,5 +1,5 @@
 let deposite = 2940 ;
-let  totalMeal = 66.5+3 ; 
+let  totalMeal = 66.5+3+3 ; 
 function deposite1 () {
     const kalam00 = document.getElementById("kalam");
     kalam00.innerHTML = deposite ;
@@ -9,9 +9,9 @@ deposite1();
 
 function koroch (){
     // adding koroch and meal
-    let totalKhoroch = 10581+115+20 ;
+    let totalKhoroch = 10581+115+20+658 ;
 
-    let allTotalMeal = 279+12 ;
+    let allTotalMeal = 279+12+11 ;
 
 
 
